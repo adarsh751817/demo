@@ -1,2 +1,3 @@
 # demo
-This is basically demo for myself
+This is my first repository in github.
+Author:- Adarsh Kumar Tripathi
